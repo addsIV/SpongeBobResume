@@ -90,3 +90,7 @@ li {
     display: block;
     max-width: 64px;
 }
+
+a:hover {
+    opacity: 0.8;
+}
