@@ -1,0 +1,45 @@
+﻿.container{
+    max-width: 1296px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mt-160{
+    margin-top: 160px;
+}
+
+.resumeTitle {
+    font-size: 128px;
+    /* 字距 */
+    letter-spacing: 0.12em;
+}
+
+.image {
+    display: block;
+    max-width: 636px;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.bg-yellow {
+    background-color: #F6AE2D;
+}
+
+.text-m {
+    font-size: 32px;
+}
+
+.w-50 {
+    width: 50%; /*636px */
+}
+
+.ml-auto {
+    margin-left: auto;
+}
